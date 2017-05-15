@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929301884997",
+    "firebase_url": "https://governmentexamportal.firebaseio.com",
+    "project_id": "governmentexamportal",
+    "storage_bucket": "governmentexamportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929301884997:android:587cb5a5c2960b9a",
+        "android_client_info": {
+          "package_name": "com.solipsism.governmentexamportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929301884997-2fv3818am1pmpk4u5der30dh0s114hp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solipsism.governmentexamportal",
+            "certificate_hash": "b88e1175129244d1e7f17bb39b10a66be965fbdc"
+          }
+        },
+        {
+          "client_id": "929301884997-gfvrjgscg0jv1ipb9c31fbptvumrbrcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WhowCEDtlBIARNf1HT7KMCTgFJPE-xA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929301884997-gfvrjgscg0jv1ipb9c31fbptvumrbrcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
